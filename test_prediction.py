@@ -10,7 +10,7 @@ Hi team,
 The meeting is rescheduled to 3pm. Please confirm your availability.
 
 Regards,
-Manager
+Manager Raman
 """
 
 label1, confidence1 = predict_email(spam_email)
